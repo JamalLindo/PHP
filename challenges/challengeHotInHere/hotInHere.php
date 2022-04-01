@@ -8,7 +8,6 @@ sort($eTemperatures);
 
 // loops through number of inputs to get total number of temperatures.
 $amountOfInputs = 0;
-
 foreach($eTemperatures as $temp){
     $amountOfInputs++;
     $Total += $temp;

@@ -10,5 +10,4 @@ foreach($names as $name){
     echo "<li> $name </li>";
 }
 
-
 echo "</ul>";
