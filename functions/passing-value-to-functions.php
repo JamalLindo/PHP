@@ -8,4 +8,5 @@ function multiply($number1 , $number2){
 
 multiply(5, 12);
 echo"<br>";
+
 multiply(3, 9);
