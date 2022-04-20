@@ -1,0 +1,2 @@
+<?php
+setcookie("fruit", "orange");
